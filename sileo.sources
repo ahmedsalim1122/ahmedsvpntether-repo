@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://ahmedsalim1122.github.io/ahmedsvpntether-repo/
+Suites: ./
+Components:
+Trusted: yes

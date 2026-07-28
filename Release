@@ -2,11 +2,14 @@ Origin: AhmedVPN
 Label: AhmedVPN Tether
 Suite: stable
 Codename: stable
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64
 Components: main
 Description: Route iPhone hotspot traffic through VPN - jailbreak tweak
-Date: Mon, 27 Jul 2026 12:00:00 -0700
+Date: Mon, 27 Jul 2026 18:08:16 -07:00
 
 SHA256:
- 57d0b41d7d35fe4108452f622ba8ce755cf10aef35e709a1424be47dd216516d 412 Packages.gz
- d9e9683ea7c2fc74bf1b2e96eeff56ca67d54fd9f42601820dd667b5001a2e64 588 Packages
+ 2e4f7b8e6d130ecf2ea85f0a12073bb410dd85df71bae744fe50ad61b993abd1 414 Packages.gz
+ b576f8caa456070fdbdf01c4edf291693edc7188fe3d8e05ba8d230fe70d6ed3 590 Packages
+
+SHA1:
+ d0c1439068b74bce8d46cf803a75fb87 414 Packages.gz
