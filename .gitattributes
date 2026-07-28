@@ -1,0 +1,8 @@
+*.deb binary
+*.gz binary
+Packages binary
+Release text
+*.sh text
+*.plist text
+*.sources text
+*.md text
