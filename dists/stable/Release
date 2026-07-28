@@ -5,16 +5,16 @@ Codename: stable
 Architectures: iphoneos-arm64
 Components: main
 Description: Route iPhone hotspot traffic through VPN - jailbreak tweak
-Date: Tue, 28 Jul 2026 02:31:07 UTC
+Date: Tue, 28 Jul 2026 02:36:55 UTC
 
 MD5Sum:
- 1673a32e10b0e1268c3e431a76ed04cb 415 Packages.gz
- c4e835dd9fac226feca2966e1cbf2cc2 590 Packages
+ 17195d67387ee47ec2737bc4b067ec84 415 Packages.gz
+ cc812ab9172ff8bb1050e3bcb9d54260 590 Packages
 
 SHA1:
- ed38e9ae76d4fed65948caa16de938379afab125 415 Packages.gz
- 5cbc9dbe8dde229eda8ef626e01e956a4997758b 590 Packages
+ 0eb206b9c636ef8a58f4e86c516e0b3e1e4d7d5a 415 Packages.gz
+ cdb80d2d7fc2c8e98f975fed857b20594aabdc41 590 Packages
 
 SHA256:
- e5ef2f4d3971c8278a633ec92dae50045c9c8a144ed73547a962f6cf1e2d4aba 415 Packages.gz
- 3c134a8e88f9495bf3c088e55ce9d8d3e81d30825de3c866851d6dc73541e69e 590 Packages
+ d65a6aaa925c5f4dfa0f2baad249dd68514a5d694d65e2a7e509769143ab3fc2 415 Packages.gz
+ ac92699bfd79fa5565059060b16c9a7495a51be5b75f609dde867161d6ef060b 590 Packages
